@@ -35,9 +35,9 @@ function languagesSpoken(country: string, language1: string, language2?: string)
 
 languagesSpoken("Colombia", "Spanish", "English");
 
-// languagesSpoken("Greece", "Greek");
+languagesSpoken("Greece", "Greek");
 
-// languagesSpoken("New Zealand", "English", "Māori");
+languagesSpoken("New Zealand", "English", "Māori");
 
 // ----
 
